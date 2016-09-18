@@ -1,0 +1,2 @@
+# ApptManager
+This small site will allow you to setup a group and times which you are available and it will automatically contact the recipients and allow them to choose times they can meet. It will then email the original user and the recipient with an ico file that can be added to a calendar easily and quickly and alert other recipients that that time slot has been taken (or just not allow them to choose that time slot on their end of the site!)
